@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ggUf+vH7OD2CD0p9phBY1Hm+0z1T+oohVxLUdDMTkQwPg7+5hG73+QsFHlP6adI+8YiHSyqJ65WOyeqeCP+BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Antonio\\Documents\\AulasAntonio\\CursoC#\\CursoC#_Basico\\curso_cSharp\\Condicional_IF\\Condicional_IF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

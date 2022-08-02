@@ -1,0 +1,16 @@
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condiciona_Switch_Case\bin\Debug\net5.0\Condiciona_Switch_Case.exe
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condiciona_Switch_Case\bin\Debug\net5.0\Condiciona_Switch_Case.deps.json
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condiciona_Switch_Case\bin\Debug\net5.0\Condiciona_Switch_Case.runtimeconfig.json
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condiciona_Switch_Case\bin\Debug\net5.0\Condiciona_Switch_Case.runtimeconfig.dev.json
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condiciona_Switch_Case\bin\Debug\net5.0\Condiciona_Switch_Case.dll
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condiciona_Switch_Case\bin\Debug\net5.0\ref\Condiciona_Switch_Case.dll
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condiciona_Switch_Case\bin\Debug\net5.0\Condiciona_Switch_Case.pdb
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condiciona_Switch_Case\obj\Debug\net5.0\Condiciona_Switch_Case.csproj.AssemblyReference.cache
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condiciona_Switch_Case\obj\Debug\net5.0\Condiciona_Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condiciona_Switch_Case\obj\Debug\net5.0\Condiciona_Switch_Case.AssemblyInfoInputs.cache
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condiciona_Switch_Case\obj\Debug\net5.0\Condiciona_Switch_Case.AssemblyInfo.cs
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condiciona_Switch_Case\obj\Debug\net5.0\Condiciona_Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condiciona_Switch_Case\obj\Debug\net5.0\Condiciona_Switch_Case.dll
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condiciona_Switch_Case\obj\Debug\net5.0\ref\Condiciona_Switch_Case.dll
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condiciona_Switch_Case\obj\Debug\net5.0\Condiciona_Switch_Case.pdb
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condiciona_Switch_Case\obj\Debug\net5.0\Condiciona_Switch_Case.genruntimeconfig.cache

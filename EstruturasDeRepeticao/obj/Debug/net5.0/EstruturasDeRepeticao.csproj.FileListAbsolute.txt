@@ -1,0 +1,16 @@
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\EstruturasDeRepeticao\bin\Debug\net5.0\EstruturasDeRepeticao.exe
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\EstruturasDeRepeticao\bin\Debug\net5.0\EstruturasDeRepeticao.deps.json
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\EstruturasDeRepeticao\bin\Debug\net5.0\EstruturasDeRepeticao.runtimeconfig.json
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\EstruturasDeRepeticao\bin\Debug\net5.0\EstruturasDeRepeticao.runtimeconfig.dev.json
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\EstruturasDeRepeticao\bin\Debug\net5.0\EstruturasDeRepeticao.dll
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\EstruturasDeRepeticao\bin\Debug\net5.0\ref\EstruturasDeRepeticao.dll
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\EstruturasDeRepeticao\bin\Debug\net5.0\EstruturasDeRepeticao.pdb
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\EstruturasDeRepeticao\obj\Debug\net5.0\EstruturasDeRepeticao.csproj.AssemblyReference.cache
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\EstruturasDeRepeticao\obj\Debug\net5.0\EstruturasDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\EstruturasDeRepeticao\obj\Debug\net5.0\EstruturasDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\EstruturasDeRepeticao\obj\Debug\net5.0\EstruturasDeRepeticao.AssemblyInfo.cs
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\EstruturasDeRepeticao\obj\Debug\net5.0\EstruturasDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\EstruturasDeRepeticao\obj\Debug\net5.0\EstruturasDeRepeticao.dll
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\EstruturasDeRepeticao\obj\Debug\net5.0\ref\EstruturasDeRepeticao.dll
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\EstruturasDeRepeticao\obj\Debug\net5.0\EstruturasDeRepeticao.pdb
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\EstruturasDeRepeticao\obj\Debug\net5.0\EstruturasDeRepeticao.genruntimeconfig.cache

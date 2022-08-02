@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0xar8Pui7zAsk6vwUsrSu7yo1LXUK7/dHtWtWfKPI9RsayFfu1AD+FEixDI+9goemZ2DqCnmpho91OmXjzaDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Antonio\\Documents\\AulasAntonio\\CursoC#\\CursoC#_Basico\\curso_cSharp\\EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\testeswit\bin\Debug\net5.0\testeswit.exe
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\testeswit\bin\Debug\net5.0\testeswit.deps.json
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\testeswit\bin\Debug\net5.0\testeswit.runtimeconfig.json
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\testeswit\bin\Debug\net5.0\testeswit.runtimeconfig.dev.json
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\testeswit\bin\Debug\net5.0\testeswit.dll
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\testeswit\bin\Debug\net5.0\ref\testeswit.dll
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\testeswit\bin\Debug\net5.0\testeswit.pdb
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\testeswit\obj\Debug\net5.0\testeswit.csproj.AssemblyReference.cache
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\testeswit\obj\Debug\net5.0\testeswit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\testeswit\obj\Debug\net5.0\testeswit.AssemblyInfoInputs.cache
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\testeswit\obj\Debug\net5.0\testeswit.AssemblyInfo.cs
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\testeswit\obj\Debug\net5.0\testeswit.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\testeswit\obj\Debug\net5.0\testeswit.dll
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\testeswit\obj\Debug\net5.0\ref\testeswit.dll
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\testeswit\obj\Debug\net5.0\testeswit.pdb
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\testeswit\obj\Debug\net5.0\testeswit.genruntimeconfig.cache

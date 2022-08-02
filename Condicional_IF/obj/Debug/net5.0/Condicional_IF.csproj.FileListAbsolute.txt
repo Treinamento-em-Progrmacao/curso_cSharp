@@ -1,0 +1,16 @@
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condicional_IF\bin\Debug\net5.0\Condicional_IF.exe
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condicional_IF\bin\Debug\net5.0\Condicional_IF.deps.json
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condicional_IF\bin\Debug\net5.0\Condicional_IF.runtimeconfig.json
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condicional_IF\bin\Debug\net5.0\Condicional_IF.runtimeconfig.dev.json
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condicional_IF\bin\Debug\net5.0\Condicional_IF.dll
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condicional_IF\bin\Debug\net5.0\ref\Condicional_IF.dll
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condicional_IF\bin\Debug\net5.0\Condicional_IF.pdb
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condicional_IF\obj\Debug\net5.0\Condicional_IF.csproj.AssemblyReference.cache
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condicional_IF\obj\Debug\net5.0\Condicional_IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condicional_IF\obj\Debug\net5.0\Condicional_IF.AssemblyInfoInputs.cache
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condicional_IF\obj\Debug\net5.0\Condicional_IF.AssemblyInfo.cs
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condicional_IF\obj\Debug\net5.0\Condicional_IF.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condicional_IF\obj\Debug\net5.0\Condicional_IF.dll
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condicional_IF\obj\Debug\net5.0\ref\Condicional_IF.dll
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condicional_IF\obj\Debug\net5.0\Condicional_IF.pdb
+C:\Users\Antonio\Documents\AulasAntonio\CursoC#\CursoC#_Basico\curso_cSharp\Condicional_IF\obj\Debug\net5.0\Condicional_IF.genruntimeconfig.cache
