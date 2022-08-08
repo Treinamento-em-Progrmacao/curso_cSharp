@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b5d0199-c14a-424e-b881-934b7ad752bb": {
+      "ProjectGuid": "1b5d0199-c14a-424e-b881-934b7ad752bb",
+      "DisplayName": "OperadoresAritimeticos",
+      "ColorIndex": 0
+    },
+    "d3b6bf8f-439b-4b8b-9da5-b33ecd7ece33": {
+      "ProjectGuid": "d3b6bf8f-439b-4b8b-9da5-b33ecd7ece33",
+      "DisplayName": "Escopo",
+      "ColorIndex": 1
+    },
+    "d3e99ddc-23d9-4bb0-96ea-2c41723b6b0e": {
+      "ProjectGuid": "d3e99ddc-23d9-4bb0-96ea-2c41723b6b0e",
+      "DisplayName": "Condicional_IF",
+      "ColorIndex": 2
+    },
+    "1feb6200-2a16-48ba-ab33-ce9971ace26d": {
+      "ProjectGuid": "1feb6200-2a16-48ba-ab33-ce9971ace26d",
+      "DisplayName": "testeswit",
+      "ColorIndex": 3
+    },
+    "4f6f7bdd-7d52-45f5-aa5a-a78aa30e399a": {
+      "ProjectGuid": "4f6f7bdd-7d52-45f5-aa5a-a78aa30e399a",
+      "DisplayName": "Condiciona_Switch_Case",
+      "ColorIndex": 4
+    },
+    "ad2dabcb-7841-4fc8-ae38-5181effec8b6": {
+      "ProjectGuid": "ad2dabcb-7841-4fc8-ae38-5181effec8b6",
+      "DisplayName": "EstruturasDeRepeticao",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

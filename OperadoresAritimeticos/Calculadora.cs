@@ -4,9 +4,27 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Net;
+using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+//using (MailMessage mail = new MailMessage())
+//{
+//    mail.From = new MailAddress("email@gmail.com");
+//    mail.To.Add("somebody@domain.com");
+//    mail.Subject = "Hello World";
+//    mail.Body = "<h1>Hello</h1>";
+//    mail.IsBodyHtml = true;
+//    mail.Attachments.Add(new Attachment("C:\\file.zip"));
+
+//    using (SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587))
+//    {
+//        smtp.Credentials = new NetworkCredential("email@gmail.com", "password");
+//        smtp.EnableSsl = true;
+//        smtp.Send(mail);
+//    }
+//}
 
 namespace OperadoresAritimeticos
 {
@@ -17,7 +35,8 @@ namespace OperadoresAritimeticos
             InitializeComponent();
         }
 
-        
+       
+
 
         private void btnSomar_Click(object sender, EventArgs e)
         {
@@ -97,5 +116,7 @@ namespace OperadoresAritimeticos
 
             return valor1 / valor2;
         }
+
+       
     }
 }
