@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Antonio\\Documents\\AulasAntonio\\CursoC#\\CursoC#_Basico\\curso_cSharp\\EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj": {}
+    "C:\\Users\\Tonic\\Documents\\Cursos\\Curso_C#Youtube\\CursoC#_Basico\\curso_cSharp\\EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Antonio\\Documents\\AulasAntonio\\CursoC#\\CursoC#_Basico\\curso_cSharp\\EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj": {
+    "C:\\Users\\Tonic\\Documents\\Cursos\\Curso_C#Youtube\\CursoC#_Basico\\curso_cSharp\\EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Antonio\\Documents\\AulasAntonio\\CursoC#\\CursoC#_Basico\\curso_cSharp\\EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj",
+        "projectUniqueName": "C:\\Users\\Tonic\\Documents\\Cursos\\Curso_C#Youtube\\CursoC#_Basico\\curso_cSharp\\EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj",
         "projectName": "EstruturasDeRepeticao",
-        "projectPath": "C:\\Users\\Antonio\\Documents\\AulasAntonio\\CursoC#\\CursoC#_Basico\\curso_cSharp\\EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj",
-        "packagesPath": "C:\\Users\\Antonio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Antonio\\Documents\\AulasAntonio\\CursoC#\\CursoC#_Basico\\curso_cSharp\\EstruturasDeRepeticao\\obj\\",
+        "projectPath": "C:\\Users\\Tonic\\Documents\\Cursos\\Curso_C#Youtube\\CursoC#_Basico\\curso_cSharp\\EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj",
+        "packagesPath": "C:\\Users\\Tonic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tonic\\Documents\\Cursos\\Curso_C#Youtube\\CursoC#_Basico\\curso_cSharp\\EstruturasDeRepeticao\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Antonio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tonic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,18 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.107\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

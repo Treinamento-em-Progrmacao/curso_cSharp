@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eUu7QJrIlB6DuAItpV79CfxHNqDsFs56CGocUeJA5M6Xpemw7fjfQ4IOi/xw9J6e0kPnRntvjvDeKEtiIZrwzg==",
+  "dgSpecHash": "bWHPLY+P6luEKV+/HGlGiKVagI/C/6N/+LW6A2BvzSVclJxQ4QFO+LifQxctcTFuQMbc6chGQYm9KwbgN2PovQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Antonio\\Documents\\AulasAntonio\\CursoC#\\CursoC#_Basico\\curso_cSharp\\Condiciona_Switch_Case\\Condiciona_Switch_Case.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Tonic\\Documents\\Cursos\\Curso_C#Youtube\\CursoC#_Basico\\curso_cSharp\\Condiciona_Switch_Case\\Condiciona_Switch_Case.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
