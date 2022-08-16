@@ -1,0 +1,8 @@
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\TratamentosDeErros\bin\Debug\TratamentosDeErros.exe.config
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\TratamentosDeErros\bin\Debug\TratamentosDeErros.exe
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\TratamentosDeErros\bin\Debug\TratamentosDeErros.pdb
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\TratamentosDeErros\obj\Debug\TratamentosDeErros.csproj.AssemblyReference.cache
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\TratamentosDeErros\obj\Debug\TratamentosDeErros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\TratamentosDeErros\obj\Debug\TratamentosDeErros.csproj.CoreCompileInputs.cache
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\TratamentosDeErros\obj\Debug\TratamentosDeErros.exe
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\TratamentosDeErros\obj\Debug\TratamentosDeErros.pdb
