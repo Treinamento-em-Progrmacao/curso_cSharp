@@ -42,12 +42,6 @@ namespace TratamentosDeErros
                 Console.ReadKey();
             }
 
-            
-               
-                              
-
-
-
 
         }
     }

@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturasDeRepeticao", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TratamentosDeErros", "..\TratamentosDeErros\TratamentosDeErros.csproj", "{83CE8163-5F28-4BF3-9D00-E68195CD067D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoArrays", "..\EstudoArray\EstudoArrays\EstudoArrays.csproj", "{DAE17C43-12B9-4168-9628-1EDC167CFB36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{83CE8163-5F28-4BF3-9D00-E68195CD067D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83CE8163-5F28-4BF3-9D00-E68195CD067D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83CE8163-5F28-4BF3-9D00-E68195CD067D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE17C43-12B9-4168-9628-1EDC167CFB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE17C43-12B9-4168-9628-1EDC167CFB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE17C43-12B9-4168-9628-1EDC167CFB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE17C43-12B9-4168-9628-1EDC167CFB36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

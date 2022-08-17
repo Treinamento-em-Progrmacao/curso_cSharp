@@ -1,0 +1,8 @@
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\EstudoArray\EstudoArrays\bin\Debug\EstudoArrays.exe.config
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\EstudoArray\EstudoArrays\bin\Debug\EstudoArrays.exe
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\EstudoArray\EstudoArrays\bin\Debug\EstudoArrays.pdb
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\EstudoArray\EstudoArrays\obj\Debug\EstudoArrays.csproj.AssemblyReference.cache
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\EstudoArray\EstudoArrays\obj\Debug\EstudoArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\EstudoArray\EstudoArrays\obj\Debug\EstudoArrays.csproj.CoreCompileInputs.cache
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\EstudoArray\EstudoArrays\obj\Debug\EstudoArrays.exe
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\EstudoArray\EstudoArrays\obj\Debug\EstudoArrays.pdb
