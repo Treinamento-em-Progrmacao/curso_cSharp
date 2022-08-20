@@ -1,0 +1,16 @@
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\CollectionDictionay\bin\Debug\net5.0\CollectionDictionay.exe
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\CollectionDictionay\bin\Debug\net5.0\CollectionDictionay.deps.json
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\CollectionDictionay\bin\Debug\net5.0\CollectionDictionay.runtimeconfig.json
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\CollectionDictionay\bin\Debug\net5.0\CollectionDictionay.runtimeconfig.dev.json
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\CollectionDictionay\bin\Debug\net5.0\CollectionDictionay.dll
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\CollectionDictionay\bin\Debug\net5.0\CollectionDictionay.pdb
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\CollectionDictionay\obj\Debug\net5.0\CollectionDictionay.csproj.AssemblyReference.cache
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\CollectionDictionay\obj\Debug\net5.0\CollectionDictionay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\CollectionDictionay\obj\Debug\net5.0\CollectionDictionay.AssemblyInfoInputs.cache
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\CollectionDictionay\obj\Debug\net5.0\CollectionDictionay.AssemblyInfo.cs
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\CollectionDictionay\obj\Debug\net5.0\CollectionDictionay.csproj.CoreCompileInputs.cache
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\CollectionDictionay\obj\Debug\net5.0\CollectionDictionay.dll
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\CollectionDictionay\obj\Debug\net5.0\refint\CollectionDictionay.dll
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\CollectionDictionay\obj\Debug\net5.0\CollectionDictionay.pdb
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\CollectionDictionay\obj\Debug\net5.0\CollectionDictionay.genruntimeconfig.cache
+C:\Users\Tonic\Documents\Cursos\Curso_C#Youtube\CursoC#_Basico\curso_cSharp\CollectionDictionay\obj\Debug\net5.0\ref\CollectionDictionay.dll
