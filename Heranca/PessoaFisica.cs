@@ -21,5 +21,17 @@ namespace Heranca
                 cpf = value;    
             }
         }
+
+        public string VerStatusDoCliente()
+        {
+
+            status = "Cliente Pessoa  Física Liberado!";
+
+            return status;
+
+        }
+
+
+
     }
 }

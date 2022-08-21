@@ -22,5 +22,13 @@ namespace Heranca
             }
         }
 
+        public string VerStatusDoCliente()
+        {
+
+            status = "Cliente Pessoa  Juridica Não Liberado!";
+
+            return status;
+
+        }
     }
 }

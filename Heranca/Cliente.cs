@@ -11,6 +11,8 @@ namespace Heranca
 
         private string nome;
         private int idade;
+        protected string status;
+             
 
         public string Nome 
         {
@@ -36,5 +38,6 @@ namespace Heranca
             }
         }
 
+      
     }
 }
